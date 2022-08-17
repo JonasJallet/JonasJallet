@@ -1,4 +1,4 @@
-<center>## Hello, i'm Jonas you're welcome 👋</center>
+<center>Hello, i'm Jonas you're welcome 👋</center>
 
 I'm student on learning dev on Wild Code School in Lyon City
 
