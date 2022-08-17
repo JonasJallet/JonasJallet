@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-## 
 * 📫 How to reach me jonas.jallet@gmail.com
 * 💬 Ask me about ...
 
