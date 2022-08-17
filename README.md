@@ -1,4 +1,7 @@
-## Hi there 👋
+  ## Hello, i'm Jonas you're welcome 👋
+
+I'm student on learning dev on Wild Code School in Lyon City
+
 
 * 📫 How to reach me jonas.jallet@gmail.com
 * 💬 Ask me about ...
