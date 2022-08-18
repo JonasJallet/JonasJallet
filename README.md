@@ -3,7 +3,9 @@
 I'm web development student on Wild Code School in Lyon City
 
 <img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68">
+
 ----
+
 * 📫 How to reach me jonas.jallet@gmail.com
 * 💬 Ask me about ...
 
