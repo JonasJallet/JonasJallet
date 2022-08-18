@@ -1,5 +1,5 @@
 ## <p align="center">Hello, i'm Jonas you're welcome 👋</p>
-<p align="center">Web development student on Wild Code School in Lyon City</p>
+### <p align="center">Web development student at Wild Code School in Lyon City</p>
   
 <p align="center"><a href="https://www.wildcodeschool.com/"><img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68" align="center" alt="WIld Code School"></a></p>
 ----
