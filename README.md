@@ -1,8 +1,7 @@
-## <a align="center">Hello, i'm Jonas you're welcome 👋</a>
-
-<p align="center">Web development student on Wild Code School in Lyon City
+## <p align="center">Hello, i'm Jonas you're welcome 👋</p>
+<p align="center">Web development student on Wild Code School in Lyon City</p>
   
-<a href="https://www.wildcodeschool.com/"><img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68" align="center" alt="WIld Code School"></a></p>
+<a href="https://www.wildcodeschool.com/"><img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68" align="center" alt="WIld Code School"></a>
 ----
 * 📫 How to reach me jonas.jallet@gmail.com
 * 💬 Ask me about ...
