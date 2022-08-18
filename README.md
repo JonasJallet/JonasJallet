@@ -4,7 +4,7 @@
 
 I'm web development student on Wild Code School in Lyon City
 
-<img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68">
+<a href="https://www.wildcodeschool.com/" target="blank"><img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68" alt="WIld Code School"></a>
 
 ----
 
