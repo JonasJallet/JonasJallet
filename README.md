@@ -2,7 +2,7 @@
 
 I'm student on learning dev on Wild Code School in Lyon City
 ![alt text](https://www.wildcodeschool.com/static/imgs/logo.png | width=100)
-
+<img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="100" height="100">
 
 * 📫 How to reach me jonas.jallet@gmail.com
 * 💬 Ask me about ...
