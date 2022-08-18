@@ -2,6 +2,8 @@
 ### <p align="center">Web development student at Wild Code School in Lyon City</p>
   
 <p align="center"><a href="https://www.wildcodeschool.com/"><img src="https://www.wildcodeschool.com/static/imgs/logo.png" width="200" height="68" align="center" alt="WIld Code School"></a></p>
+
+Learning in progress
 ----
 
 * 📫 How to reach me jonas.jallet@gmail.com
