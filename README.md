@@ -4,8 +4,8 @@
 <a href="mailto:jonas.jallet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>
 <a href="https://discordapp.com/users/160507796633157633"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a></p>
 
-### <p align="center">Web development student at Wild Code School in Lyon City</p>
-<p align="center"><a href="https://www.wildcodeschool.com/"><img style="width: 100px;" src="https://github.com/JonasJallet/JonasJallet/assets/108140644/20543727-476b-49fd-991d-f3cce323179c"></a></p>
+### <p align="center">Developper Fullstack</p>
+<p align="center"><a href="https://www.wildcodeschool.com/"><img style="width: 400px;" src="https://github.com/JonasJallet/JonasJallet/assets/108140644/20543727-476b-49fd-991d-f3cce323179c"></a></p>
 
 
 ### Learning in progress
