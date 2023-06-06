@@ -5,6 +5,7 @@
 <a href="https://discordapp.com/users/160507796633157633"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a></p>
 
 
+![wobz](https://github.com/JonasJallet/JonasJallet/assets/108140644/656e659c-730c-4f1a-b4de-3fb16207a7fb)
 
 
 ### <p align="center">Web development student at Wild Code School in Lyon City</p>
