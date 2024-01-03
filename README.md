@@ -5,7 +5,7 @@
 <a href="https://discordapp.com/users/160507796633157633"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a></p>
 
 ### <p align="center">Developper Fullstack</p>
-<p align="center"><a href="https://www.wildcodeschool.com/"><img style="width: 300px;" src="https://github.com/JonasJallet/JonasJallet/assets/108140644/20543727-476b-49fd-991d-f3cce323179c"></a></p>
+<p align="center"><a href="https://wobz.fr/"><img style="width: 250px;" src="https://github.com/JonasJallet/JonasJallet/assets/108140644/20543727-476b-49fd-991d-f3cce323179c"></a></p>
 
 
 
